@@ -1,4 +1,5 @@
 stuff
 =====
 
-Random Collection of things
+Random Collection of scripts and snippets of code etc
+Please refer to the attached MIT licence if you reuse any of this code
